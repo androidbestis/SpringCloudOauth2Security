@@ -1,0 +1,1 @@
+java -jar .\target\Micro_Service_Skeleton_Register_jar\Micro-Service-Skeleton-Register-0.0.1-SNAPSHOT.jar --spring.profiles.active=node-1
